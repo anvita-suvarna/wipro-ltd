@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "wipro-ltd"
+  "defaultProject": "wipro-ltd",
+  "cli": {
+    "analytics": "81585650-6bfc-4ddf-bf22-5c230aefeac1"
+  }
 }
